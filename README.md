@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
