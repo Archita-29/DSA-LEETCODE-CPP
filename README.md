@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
