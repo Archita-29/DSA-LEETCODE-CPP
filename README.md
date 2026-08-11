@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0203-remove-linked-list-elements) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
