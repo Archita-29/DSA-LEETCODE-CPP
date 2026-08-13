@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//  USING STACK
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
@@ -18,9 +19,30 @@ public:
         if(root2==NULL){
             return root1;
         }
-        root1->val=root1->val+root2->val;
-        root1->left=mergeTrees(root1->left,root2->left);
-        root1->right=mergeTrees(root1->right,root2->right);
+        stack<pair<TreeNode*,TreeNode*>>st;
+        st.push({root1,root2});
+        while(!st.empty()){
+            pair<TreeNode*,TreeNode*>p=st.top();
+            st.pop();
+            TreeNode* t1=p.first;
+            TreeNode* t2=p.second;
+            if(t1==NULL || t2==NULL){
+                continue;
+            }
+            t1->val=t1->val+t2->val;
+            if(t1->left==NULL){
+                t1->left=t2->left;
+            }
+            else{
+                st.push({t1->left,t2->left});
+            }
+            if(t1->right==NULL){
+                t1->right=t2->right;
+            }
+            else{
+                st.push({t1->right,t2->right});
+            }
+        }
         return root1;
     }
 };
