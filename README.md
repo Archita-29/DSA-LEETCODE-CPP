@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Depth-First Search
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
