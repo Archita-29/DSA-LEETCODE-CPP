@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
