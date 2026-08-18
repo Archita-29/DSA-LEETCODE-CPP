@@ -11,18 +11,24 @@
  */
 class Solution {
 public:
-    int sum=0;
-    void inorder(TreeNode* root){
-        if(root==NULL){
-            return;
-        }
-        inorder(root->right);
-        sum+=root->val;
-        root->val=sum;
-        inorder(root->left);
-    }
     TreeNode* convertBST(TreeNode* root) {
-        inorder(root);
+        if(root==NULL){
+            return root;
+        }
+        stack<TreeNode*>st;
+        TreeNode* curr=root;
+        int sum=0;
+        while(curr!=NULL || !st.empty()){
+            while(curr!=NULL){
+                st.push(curr);
+                curr=curr->right;
+            }
+            curr=st.top();
+            st.pop();
+            sum+=curr->val;
+            curr->val=sum;
+            curr=curr->left;
+        }
         return root;
     }
 };
