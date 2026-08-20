@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
