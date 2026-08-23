@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
+| [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
