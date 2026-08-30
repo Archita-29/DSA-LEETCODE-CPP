@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Sorting
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
@@ -230,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
