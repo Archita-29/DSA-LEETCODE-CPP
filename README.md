@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
