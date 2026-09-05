@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
