@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
