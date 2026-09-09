@@ -5,18 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    dummy=TreeNode(0)
+    head=dummy
     def increasingBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        nums=[]
         def inorder(node):
             if node==None:
-                return 
+                return
             inorder(node.left)
-            nums.append(node.val)
+            node.left=None
+            self.dummy.right=node
+            self.dummy=self.dummy.right
             inorder(node.right)
         inorder(root)
-        dummy=TreeNode(0)
-        curr=dummy
-        for val in nums:
-            curr.right=TreeNode(val)
-            curr=curr.right
-        return dummy.right
+        return self.head.right
