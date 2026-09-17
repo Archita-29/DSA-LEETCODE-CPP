@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
@@ -282,5 +285,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
