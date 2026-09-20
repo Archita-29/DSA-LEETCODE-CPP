@@ -1,11 +1,13 @@
 class Solution {
 public:
     int reverseDegree(string s) {
-        string rev="zyxwvutsrqponmlkjihgfedcba";
+        int rank[26];
+        for(int c=0;c<26;++c){
+            rank[c]=26-c;
+        }
         int total=0;
         for(int i=0;i<(int)s.size();++i){
-            int k=(int)rev.find(s[i]);
-            total=total+((k+1)*(i+1));
+            total+=rank[s[i]-'a']*(i+1);
         }
         return total;
     }
