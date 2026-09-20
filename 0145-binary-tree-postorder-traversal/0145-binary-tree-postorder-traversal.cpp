@@ -1,4 +1,5 @@
 /**
+Using only 1 stack
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -14,18 +15,28 @@ public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>result;
         if(root==NULL) return result;
-        stack<TreeNode*>st1,st2;
-        st1.push(root);
-        while(!st1.empty()){
-            root=st1.top();
-            st1.pop();
-            st2.push(root);
-            if(root->left!=NULL) st1.push(root->left);
-            if(root->right!=NULL) st1.push(root->right);
-        }
-        while(!st2.empty()){
-            result.push_back(st2.top()->val);
-            st2.pop();
+        stack<TreeNode*>st;
+        TreeNode* temp=NULL;
+        while(root!=nullptr || !st.empty()){
+            if(root!=nullptr){
+                st.push(root);
+                root=root->left;
+            }else{
+                temp=st.top()->right;
+                if(temp==nullptr){
+                    temp=st.top();
+                    st.pop();
+                    result.push_back(temp->val);
+
+                    while(!st.empty() && temp==st.top()->right){
+                        temp=st.top();
+                        st.pop();
+                        result.push_back(temp->val);
+                    }
+                }else{
+                    root=temp;
+                }
+            }
         }
         return result;
     }
