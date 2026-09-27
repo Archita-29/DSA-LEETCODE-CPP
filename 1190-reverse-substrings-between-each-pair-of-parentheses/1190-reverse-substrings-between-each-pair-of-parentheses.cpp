@@ -12,9 +12,7 @@ public:
                     st.pop();
                 }
                 st.pop();
-                for(auto ch:temp){
-                    st.push(ch);
-                }
+                for(auto ch:temp) st.push(ch);
             }else{
                 st.push(c);
             }
