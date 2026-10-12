@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
