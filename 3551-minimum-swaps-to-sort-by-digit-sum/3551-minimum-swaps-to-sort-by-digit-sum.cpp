@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int getDigitSum(int num){
+    static int getDigitSum(int num){
         int sum=0;
         while(num>0){
             sum+=(num%10);
@@ -12,7 +12,7 @@ public:
     int minSwaps(vector<int>& nums) {
         int n=nums.size();
         vector<int>afterSorted(nums);
-        auto lambda=[&](int num1,int num2){
+        auto lambda=[](int num1,int num2){
             int num1DigitSum=getDigitSum(num1);
             int num2DigitSum=getDigitSum(num2);
             if(num1DigitSum!=num2DigitSum){
