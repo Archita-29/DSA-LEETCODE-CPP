@@ -2,10 +2,7 @@ class Solution {
     int dfs(vector<vector<int>>&grid, int i,int j){
         int r=grid.size();
         int c=grid[0].size();
-        if(i<0 || j<0 || i>=r || j>=c){
-            return 0;
-        }
-        if(grid[i][j]!=1){
+        if(i<0 || j<0 || i>=r || j>=c || grid[i][j]!=1){
             return 0;
         }
         grid[i][j]=2;
