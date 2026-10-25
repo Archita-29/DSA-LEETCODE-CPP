@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sprague–Grundy Theorem
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
