@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
