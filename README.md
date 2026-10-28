@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
 | [1020-number-of-enclaves](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Segment Tree
