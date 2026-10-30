@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0897-increasing-order-search-tree) |
 | [1020-number-of-enclaves](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0207-course-schedule) |
+| [0841-keys-and-rooms](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
