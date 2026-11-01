@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0695-max-area-of-island](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0695-max-area-of-island) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1020-number-of-enclaves](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1020-number-of-enclaves) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0096-unique-binary-search-trees) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
