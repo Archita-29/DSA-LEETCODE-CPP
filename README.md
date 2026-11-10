@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
