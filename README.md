@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0070-climbing-stairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
