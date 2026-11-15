@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1386-cinema-seat-allocation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1927-sum-game) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3903-smallest-stable-index-i) |
