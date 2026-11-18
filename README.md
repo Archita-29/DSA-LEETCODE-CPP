@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
