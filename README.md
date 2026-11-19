@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2381-shifting-letters-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/0016-3sum-closest) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
