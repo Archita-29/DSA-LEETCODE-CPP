@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Archita-29/DSA-LEETCODE-CPP/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
